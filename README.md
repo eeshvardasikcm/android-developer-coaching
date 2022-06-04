@@ -1,4 +1,4 @@
-# android-developer-training provided by Eeshvar Das (Erik Dougls Ward) (com.eeshvardasikcm)
+# android-developer-coaching provided by Eeshvar Das (Erik Dougls Ward) (com.eeshvardasikcm)
 Eeshvar Das is initiating this repository to enable Android developers to work closely with him here on GitHub using new Android development topics that Google has yet to specifically create coursework for.
 ## Learn to Write Android Apps with Eeshvar Das. Subscribe to eeshvardasikcm on GitHub.
 Subscribe and receive access to relevent com.eeshvardasikcm private repositories that Eeshvar Das is actively developing.
